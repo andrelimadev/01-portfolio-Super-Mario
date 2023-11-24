@@ -7,3 +7,8 @@
 
 <a href="https://andrelimadev.github.io/Super-Mario/" alt="Site Super Mario Bros.">Site Super Mario Bros.</a>
 
+<img src="https://github.com/andrelimadev/Super-Mario/blob/main/img/main.png" alt="Tela inicial site Mario Bros.">
+
+<img src="https://github.com/andrelimadev/Super-Mario/blob/main/img/form.png" alt="Tela formulário site Mario Bros.">
+
+<p>* Esse site foi construído por André Luiz de Souza Lima durante o evento citado acima.</p>
