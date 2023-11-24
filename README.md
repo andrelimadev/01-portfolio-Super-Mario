@@ -5,7 +5,7 @@
 <p>O DevClub é uma plataforma de ensino do Prof. Rodolfo Mori.</p>
 <p>As tecnologia usadas foram: HTML, CSS e JavaScript.</p>
 
-<a href="https://andrelimadev.github.io/Super-Mario/" alt="Site Super Mario Bros.">Site Super Mario Bros.</a>
+<a href="https://andrelimadev.github.io/Super-Mario/" target="_blank" alt="Site Super Mario Bros.">Site Super Mario Bros.</a>
 
 <img src="https://github.com/andrelimadev/Super-Mario/blob/main/img/main.png" alt="Tela inicial site Mario Bros.">
 
